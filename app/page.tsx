@@ -6,7 +6,6 @@ export default function Home() {
     <div className="h-screen bg-[#D9D9D9]">
       <TopNav />
       <BottomNav/>
-      
     </div>
   )
 }
